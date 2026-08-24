@@ -67,8 +67,8 @@ BarWidget {
      */
     readonly property string iconGlyph: {
         switch (iconStyle) {
-        case "Bluetooth Connected":
-            return "󰂱"
+        case "Mouse":
+            return "󰍽"
 
         case "Headphones":
             return "󰋋"

@@ -531,9 +531,9 @@ Panel {
                                     name: "Bluetooth",
                                     icon: "󰂯"
                                 },
-                                {
-                                    name: "Bluetooth Connected",
-                                    icon: "󰂱"
+                                { 
+                                    name: "Mouse",
+                                    icon: "󰍽"
                                 },
                                 {
                                     name: "Headphones",

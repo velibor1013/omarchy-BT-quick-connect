@@ -2,6 +2,8 @@
 
 A small [Omarchy](https://omarchy.org/) bar-widget plugin for quickly connecting to and disconnecting from a selected Bluetooth device.
 
+![Bluetooth-Quick-Connect bar menu for selecting device](preview.png)
+
 ## Features
 
 * Adds a Bluetooth widget to the Omarchy bar.

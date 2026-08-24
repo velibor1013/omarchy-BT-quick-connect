@@ -419,6 +419,8 @@ Panel {
                                                 modelData.address
                                             )
 
+                                        textFormat: Text.PlainText
+
                                         color:
                                             root.foreground
 

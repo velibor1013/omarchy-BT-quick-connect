@@ -274,13 +274,15 @@ Panel {
 
                         Text {
                             width: parent.width
-
+                        
                             text:
                                 root.selectedName !== ""
                                 ? "Quick-connect target: " +
                                   root.selectedName
                                 : "Choose a Bluetooth device."
-
+                        
+                            textFormat: Text.PlainText
+                        
                             color:
                                 Qt.darker(
                                     root.foreground,

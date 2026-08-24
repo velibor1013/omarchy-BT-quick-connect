@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "velibor1013.bluetooth-quick-connect",
+  "name": "Bluetooth Quick Connect",
+  "version": "1.0.2",
+  "author": "velibor1013",
+  "license": "MIT",
+  "description": "Quickly connect a chosen Bluetooth device from the Omarchy bar.",
+  "kinds": ["bar-widget"],
+  "entryPoints": { "barWidget": "BarWidget.qml" },
+  "barWidget": {
+    "displayName": "Bluetooth Quick Connect",
+    "category": "Connectivity",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
